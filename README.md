@@ -8,8 +8,8 @@ lowering the upper limit of CPU usage rate can reduce battery drain.
 
 Note: If you set the upper limit of CPU usage lower, PC processing will be slower.
 
-This software may not work on all PCs.
-It worked on the following models.
+This software may not work on all PCs.  
+I checked this to work with at least the following models.
 - Surface Pro 4 (Windows 10)
 - MacBook Pro (Mid 2015) (Windows 10 on BootCamp)
 - GPD Pocket (Windows 10)
