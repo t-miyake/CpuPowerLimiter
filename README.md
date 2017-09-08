@@ -3,7 +3,7 @@
 This tool can set the upper limit of CPU usage manually.
 By doing so, you can reduce battery drain.
 
-For example, if you do not need much CPU power like text input,
+For example, if you do not need much CPU power like text input,  
 lowering the upper limit of CPU usage rate can reduce battery drain.
 
 Note: If you set the upper limit of CPU usage lower, PC processing will be slower.
