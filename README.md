@@ -6,7 +6,8 @@ By doing so, you can reduce battery drain.
 For example, if you do not need much CPU power like text input,  
 lowering the upper limit of CPU usage rate can reduce battery drain.
 
-Note: If you set the upper limit of CPU usage lower, PC processing will be slower.
+Note: If you set the upper limit of CPU usage lower, PC processing will be slower.  
+Note: When exit this application, the upper limit of the CPU usage rate will return to 100%.  
 
 This software may not work on all PCs.  
 I checked this to work with at least the following models.
